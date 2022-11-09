@@ -1,12 +1,13 @@
-import Nav from './components/Nav/Nav';
-import ParticleBackground from './components/Nav/ParticleBackground';
+import ImageLinkForm from './components/ImageLinkForm';
+import Nav from './components/Nav';
+import ParticleBackground from './components/ParticleBackground';
 
 function App() {
   return (
     <div>
       <Nav/>
-      {/*<Logo />
       <ImageLinkForm />
+      {/*
   <FaceRecognition />*/}
 
       <ParticleBackground id="tsparticles"/>

@@ -9,7 +9,7 @@ const ParticleBackground = (props) => {
         return {
             background: {
                 color: {
-                    value: "#000000",
+                    value: "#383838",
                 },
             },
             fullScreen: {
